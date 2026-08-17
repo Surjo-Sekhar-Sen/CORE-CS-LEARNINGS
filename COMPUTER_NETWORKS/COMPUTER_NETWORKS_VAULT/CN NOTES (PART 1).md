@@ -52,7 +52,7 @@ Interview me basics se hi sawal shuru hote hain. Is lecture ke basis pe tumse ye
     
 2. **Why is a switch or router considered a node?** (Answer: Kyunki woh bhi data send/receive kar sakte hain, chahe woh end-user data na ho, but control/management data toh process karte hain)
 
-## MORE IMPORTANT THINGS TO KNOW!!
+## ==MORE IMPORTANT THINGS TO KNOW!!==
 
 ![[Pasted image 20260817063057.png]]
 
@@ -60,8 +60,32 @@ Interview me basics se hi sawal shuru hote hain. Is lecture ke basis pe tumse ye
 
 ![[Pasted image 20260817063145.png]]
 
+## ==SOME MORE QUESTIONS!!==
+
 ![[Pasted image 20260817063222.png]]
 
 ![[Pasted image 20260817063241.png]]
 
 ![[Pasted image 20260817063317.png]]
+
+## ==SOME DOUBTS!!==
+
+![[Pasted image 20260817073937.png]]
+
+![[Pasted image 20260817074000.png]]
+
+![[Pasted image 20260817074014.png]]
+
+![[Pasted image 20260817074029.png]]
+
+![[Pasted image 20260817074047.png]]
+
+## ==HOW DOES INTERNATIONAL ROAMING WORK??==
+
+![[Pasted image 20260817074128.png]]
+
+![[Pasted image 20260817074142.png]]
+
+![[Pasted image 20260817074207.png]]
+
+![[Pasted image 20260817074336.png]]
