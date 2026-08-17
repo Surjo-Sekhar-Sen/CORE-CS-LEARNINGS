@@ -62,6 +62,39 @@ Interviewers aksar puchte hain: "What are the key elements defined by a protocol
     
 - **Timing/Retransmission:** Ye concepts TCP protocol ke liye bahut basic hain, jo hum aage padhenge.
 
+### ==Network Models (Interview Important!)==
+
+Networking me hum devices ko aapas me kaise jodein, uske liye do models hote hain:
+
+#### A. Peer-to-Peer (P2P) Network
+
+- **Structure:** Har node (computer) barabar (equal) hota hai. Koi master nahi, koi slave nahi.
+    
+- **Pros:** Chote kaam ke liye achha hai.
+    
+- **Cons:**
+    
+    - **No Centralized Administration:** Control karne wala koi nahi hai.
+        
+    - ==**Not Scalable:** Har computer ke paas limited ports hote hain, isliye bada network banana mushkil hai.==
+        
+
+#### B. Client-Server Network (The Standard Model)
+
+- **Structure:** Ek powerful **Server** hota hai (Master) aur baaki **Clients** (Slaves) hote hain.
+    
+- **Request-Response Model:** Client request bhejta hai, Server response deta hai.
+    
+- **Pros:** Scalable hai, bada network banana aasan hai, centralized control hai.
+    
+- ==**Cons:** Agar Server down hua, toh poora network down ho jayega. Server pe load badhne ka risk rehta hai.==
+    
+
+### Interview Perspective (MAANG Focus)
+
+- **P2P vs Client-Server:** Interview me hamesha puchte hain ki "Why is Client-Server preferred in big organizations?" — Answer: Scalability, Centralized Security, and Data Management.
+    
+- **Sequence Numbering:** Yeh concept TCP protocol ke liye bahut basic hai. Hamesha yaad rakhna ki "Segmentation + Numbering" se hi bada data successfully travel hota hai.
 ## ==SOME DOUBTS AND QUESTIONS!!==
 
 ![[Pasted image 20260817095527.png]]
