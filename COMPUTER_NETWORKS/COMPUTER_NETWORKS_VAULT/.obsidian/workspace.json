@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "ed98b7035cd8bdf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "586cdefab8033e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31b4762eb348407d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CN NOTES (PART 1).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CN NOTES (PART 1)"
+            }
+          },
+          {
+            "id": "dfdd1306e9f9c07b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CN NOTES (PART 1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CN NOTES (PART 1)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ce589ff2b618965",
+    "type": "split",
+    "children": [
+      {
+        "id": "68880711fdb1411f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cfcc89f78280388",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4dfb305df7678948",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bd37d6872e396926",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e50eac9e2a212887",
+    "type": "split",
+    "children": [
+      {
+        "id": "c23327091cbfd661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f390ac57693e7a80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "113ab610a519f6b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "393656610d7bed92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2c73f4b01219fcf6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bf1239e2bf3af110",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8cfcc89f78280388",
+  "lastOpenFiles": [
+    "assets/Pasted image 20260817063317.png",
+    "assets/Pasted image 20260817063241.png",
+    "assets/Pasted image 20260817063222.png",
+    "assets/Pasted image 20260817063145.png",
+    "assets/Pasted image 20260817063117.png",
+    "assets/Pasted image 20260817063057.png",
+    "CN NOTES (PART 2).md",
+    "assets/Pasted image 20260817061550.png",
+    "assets/Pasted image 20260817061402.png",
+    "CN NOTES (PART 1).md",
+    "assets/Pasted image 20260817053016.png",
+    "assets/Pasted image 20260817052829.png",
+    "assets/Pasted image 20260817052549.png",
+    "assets",
+    "Welcome.md"
+  ]
+}
